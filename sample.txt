@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 28CD-105C
+
+ Directory of C:\Users\Karthik\Desktop\gitkumar
+
+11/20/2017  01:43 PM    <DIR>          .
+11/20/2017  01:43 PM    <DIR>          ..
+11/20/2017  01:43 PM                 0 sample.txt
+11/20/2017  01:09 PM               361 text.txt
+11/20/2017  01:10 PM                 5 text2.txt
+               3 File(s)            366 bytes
+               2 Dir(s)  96,872,271,872 bytes free
